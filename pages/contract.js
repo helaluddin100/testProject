@@ -1,7 +1,7 @@
 import Head from "next/head";
 import AppLayout from "../component/Layout/Layout";
 import axios from "axios";
-import Contract from "./inner/contract";
+import Contract from "./inner/Contract";
 function ContractPage() {
   return (
     <>
