@@ -5,7 +5,7 @@ function LatestPost() {
   const [posts, setPosts] = useState([]);
 
   useEffect(() => {
-    fetch("https://admin.devhelal.com/api/latest/post")
+    fetch("https://admin.nftconstructer.com/api/latest/post")
       .then((res) => res.json())
       .then((result) => {
         setPosts(result);

@@ -15,7 +15,7 @@ class DemoForm extends Component {
   Subscriber = async (e) => {
     e.preventDefault();
     const res = await axios.post(
-      "https://admin.devhelal.com/api/subscriber",
+      "https://admin.nftconstructer.com/api/subscriber",
       this.state
     );
     if (res.data.status === 200) {

@@ -19,7 +19,7 @@ export default class Contract extends Component {
   Contract = async (e) => {
     e.preventDefault();
     const res = await axios.post(
-      "https://admin.devhelal.com/api/contract",
+      "https://admin.nftconstructer.com/api/contract",
       this.state
     );
     if (res.data.status === 200) {

@@ -8,7 +8,7 @@ function Blog() {
   const [posts, setPosts] = useState([]);
 
   useEffect(() => {
-    fetch("https://admin.devhelal.com/api/blog")
+    fetch("https://admin.nftconstructer.com/api/blog")
       .then((res) => res.json())
       .then(
         (result) => {

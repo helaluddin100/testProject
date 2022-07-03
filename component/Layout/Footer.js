@@ -5,7 +5,7 @@ function Footer() {
   const [posts, setPosts] = useState([]);
 
   useEffect(() => {
-    fetch("https://admin.devhelal.com/api/latest/there")
+    fetch("https://admin.nftconstructer.com/api/latest/there")
       .then((res) => res.json())
       .then((result) => {
         setPosts(result);

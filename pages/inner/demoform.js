@@ -19,7 +19,7 @@ class DemoForm extends Component {
   getDemo = async (e) => {
     e.preventDefault();
     const res = await axios.post(
-      "https://admin.devhelal.com/api/demo",
+      "https://admin.nftconstructer.com/api/demo",
       this.state
     );
     if (res.data.status === 200) {

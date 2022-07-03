@@ -5,7 +5,7 @@ function TopProject() {
   const [items, setItems] = useState([]);
 
   useEffect(() => {
-    fetch("https://admin.devhelal.com/api/home/projects")
+    fetch("https://admin.nftconstructer.com/api/home/projects")
       .then((res) => res.json())
       .then(
         (result) => {

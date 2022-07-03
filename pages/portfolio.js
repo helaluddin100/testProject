@@ -10,7 +10,7 @@ function Portfolio() {
   const [portfolio, setPortfolio] = useState([]);
 
   useEffect(() => {
-    fetch("https://admin.devhelal.com/api/portfolio")
+    fetch("https://admin.nftconstructer.com/api/portfolio")
       .then((res) => res.json())
       .then(
         (result) => {
