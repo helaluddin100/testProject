@@ -1862,11 +1862,6 @@
         animation: ball-2 1s;
     }
     .decor-balls img:nth-child(3) {
-        right: 22%;
-        top: 20%;
-        animation: ball-3 1s;
-    }
-    .decor-balls img:nth-child(4) {
         right: 0px;
         top: 54%;
         animation: ball-4 1s;
@@ -5457,4 +5452,31 @@ p.urbanist-white-14 {
 
 .contract-wrapper {
     padding-top: 100px;
+}
+
+@media screen and (max-width: 500px) {
+    .project-content {
+        align-items: center;
+    }
+    .request-form {
+        padding: 30px 10px;
+    }
+    #nft-development .options p {
+        font-size: 15px;
+        line-height: 0px;
+        white-space: nowrap;
+    }
+    #inner-area .benefit-section {
+        margin-top: 30px;
+    }
+}
+
+.footer-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-logo img {
+    width: 100px;
 }

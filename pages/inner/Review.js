@@ -75,7 +75,7 @@ function Review() {
                         </ul>
                       </div>
 
-                      <div className="client-info">
+                      {/* <div className="client-info">
                         <div className="client-img">
                           <img src="assets/img/inner/client.png" alt="" />
                         </div>
@@ -83,7 +83,7 @@ function Review() {
                           <h3>Trevor Johnson </h3>
                           <p>25th January, 2022</p>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </SwiperSlide>
@@ -126,7 +126,7 @@ function Review() {
                         </ul>
                       </div>
 
-                      <div className="client-info">
+                      {/* <div className="client-info">
                         <div className="client-img">
                           <img src="assets/img/inner/client.png" alt="" />
                         </div>
@@ -134,7 +134,7 @@ function Review() {
                           <h3>Taylor Hapston</h3>
                           <p>19th January, 2022</p>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </SwiperSlide>
@@ -176,7 +176,7 @@ function Review() {
                         </ul>
                       </div>
 
-                      <div className="client-info">
+                      {/* <div className="client-info">
                         <div className="client-img">
                           <img src="assets/img/inner/client.png" alt="" />
                         </div>
@@ -184,7 +184,7 @@ function Review() {
                           <h3>Jesse Gilati </h3>
                           <p>25th January, 2022</p>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </SwiperSlide>
@@ -226,7 +226,7 @@ function Review() {
                         </ul>
                       </div>
 
-                      <div className="client-info">
+                      {/* <div className="client-info">
                         <div className="client-img">
                           <img src="assets/img/inner/client.png" alt="" />
                         </div>
@@ -234,7 +234,7 @@ function Review() {
                           <h3>Jenny Leo</h3>
                           <p>25th January, 2022</p>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </SwiperSlide>

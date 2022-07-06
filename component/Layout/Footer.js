@@ -18,10 +18,12 @@ function Footer() {
           <footer>
             <div className="social-area">
               <div className="footer-first">
+                <div className="footer-logo">
+                  <img src="assets/img/footer-logo.png" alt="" />
+                </div>
                 <p className="urbanist-white-14">
                   Sed ut perspiciatis unde omnis iste natus error sit voluptate
-                  accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quaes
+                  accusantium
                 </p>
                 <div className="footer-links">
                   <a href="https://facebook.com/nftconstructer?_rdc=1&_rdr">
