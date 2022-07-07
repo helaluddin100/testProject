@@ -39,8 +39,8 @@ function HiCoin() {
       </Head>
       <div id="hiCoin" className="cpy-5">
         <div className="decor-balls">
-          <img src="assets/imgs/decor-ball-1.svg" alt="" />
-          <img src="assets/imgs/decor-ball-3.svg" alt="" />
+          <img src="assets/imgs/decor-ball-1.svg" alt="nft constructer" />
+          <img src="assets/imgs/decor-ball-3.svg" alt="nft constructer" />
         </div>
         <div className="container">
           <section className="hero cpy-5">
@@ -102,8 +102,16 @@ function HiCoin() {
                   <div></div>
                 </div>
               </div>
-              <img src="assets/imgs/wheel.svg" alt="" className="wheel" />
-              <img src="assets/imgs/decor-4.png" alt="" className="decor-4" />
+              <img
+                src="assets/imgs/wheel.svg"
+                alt="nft constructer"
+                className="wheel"
+              />
+              <img
+                src="assets/imgs/decor-4.png"
+                alt="nft constructer"
+                className="decor-4"
+              />
             </div>
           </section>
         </div>
@@ -123,7 +131,10 @@ function HiCoin() {
                     <a href="" className="service-name">
                       # Reliable Platform
                     </a>
-                    <img src="assets/img/inner/timer.svg" alt="" />
+                    <img
+                      src="assets/img/inner/timer.svg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <p>Most Realiable Developers </p>
                 </div>
@@ -138,7 +149,10 @@ function HiCoin() {
                     <a href="" className="service-name">
                       # Project&apos;s Confidentiality
                     </a>
-                    <img src="assets/img/inner/doller.svg" alt="" />
+                    <img
+                      src="assets/img/inner/doller.svg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <p>All of Your Information Is Secure </p>
                 </div>
@@ -153,7 +167,10 @@ function HiCoin() {
                     <a href="" className="service-name">
                       # Communicative
                     </a>
-                    <img src="assets/img/inner/notice.svg" alt="" />
+                    <img
+                      src="assets/img/inner/notice.svg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <p>Clients say the team feels like their employees.</p>
                 </div>
@@ -168,7 +185,7 @@ function HiCoin() {
                     <a href="" className="service-name">
                       # 24/7 Support
                     </a>
-                    <img src="assets/img/inner/vip.svg" alt="" />
+                    <img src="assets/img/inner/vip.svg" alt="nft constructer" />
                   </div>
                   <p>Our developers are there to support you 24*7</p>
                 </div>
@@ -190,7 +207,10 @@ function HiCoin() {
                 data-aos-duration="1000"
               >
                 <div className="about-us-img">
-                  <img src="assets/img/inner/about-us.png" alt="" />
+                  <img
+                    src="assets/img/inner/about-us.png"
+                    alt="nft constructer"
+                  />
                 </div>
               </div>
               <div
@@ -223,8 +243,16 @@ function HiCoin() {
             </div>
           </div>
 
-          <img src="assets/img/inner/cr-8.png" alt="" className="cr8-img" />
-          <img src="assets/img/inner/cr-6.png" alt="" className="cr6-img" />
+          <img
+            src="assets/img/inner/cr-8.png"
+            alt="nft constructer"
+            className="cr8-img"
+          />
+          <img
+            src="assets/img/inner/cr-6.png"
+            alt="nft constructer"
+            className="cr6-img"
+          />
         </section>
         {/* ================about us section end ================== */}
         {/* ===================demo request section ================== */}
@@ -256,7 +284,10 @@ function HiCoin() {
                   data-aos-duration="1000"
                 >
                   <div className="service-icon">
-                    <img src="assets/img/icon/minting.png" alt="" />
+                    <img
+                      src="assets/img/icon/minting.png"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="service-content">
                     <h3>NFT Minting Platform Development</h3>
@@ -275,7 +306,10 @@ function HiCoin() {
                   data-aos-duration="1500"
                 >
                   <div className="service-icon">
-                    <img src="assets/img/icon/smart-contract.png" alt="" />
+                    <img
+                      src="assets/img/icon/smart-contract.png"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="service-content">
                     <h3>NFT Smart Contract Development</h3>
@@ -294,7 +328,10 @@ function HiCoin() {
                   data-aos-duration="2000"
                 >
                   <div className="service-icon">
-                    <img src="assets/img/icon/crypto.png" alt="" />
+                    <img
+                      src="assets/img/icon/crypto.png"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="service-content">
                     <h3>Crypto Collectibles</h3>
@@ -313,7 +350,10 @@ function HiCoin() {
                   data-aos-duration="1000"
                 >
                   <div className="service-icon">
-                    <img src="assets/img/icon/exchange.png" alt="" />
+                    <img
+                      src="assets/img/icon/exchange.png"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="service-content">
                     <h3>NFT Exchange Development</h3>
@@ -334,7 +374,7 @@ function HiCoin() {
                   data-aos-duration="1500"
                 >
                   <div className="service-icon">
-                    <img src="assets/img/icon/open.png" alt="" />
+                    <img src="assets/img/icon/open.png" alt="nft constructer" />
                   </div>
                   <div className="service-content">
                     <h3>Open Trading Place</h3>
@@ -354,7 +394,10 @@ function HiCoin() {
                   data-aos-duration="2000"
                 >
                   <div className="service-icon">
-                    <img src="assets/img/icon/identity.png" alt="" />
+                    <img
+                      src="assets/img/icon/identity.png"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="service-content">
                     <h3>Identity Management with NFT</h3>
@@ -375,7 +418,10 @@ function HiCoin() {
                   data-aos-duration="1000"
                 >
                   <div className="service-icon">
-                    <img src="assets/img/icon/asset.png" alt="" />
+                    <img
+                      src="assets/img/icon/asset.png"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="service-content">
                     <h3>Asset Lifecycle Management</h3>
@@ -396,7 +442,10 @@ function HiCoin() {
                   data-aos-duration="1500"
                 >
                   <div className="service-icon">
-                    <img src="assets/img/icon/software.png" alt="" />
+                    <img
+                      src="assets/img/icon/software.png"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="service-content">
                     <h3>Software License Management</h3>
@@ -417,7 +466,7 @@ function HiCoin() {
                   data-aos-duration="2000"
                 >
                   <div className="service-icon">
-                    <img src="assets/img/icon/real.png" alt="" />
+                    <img src="assets/img/icon/real.png" alt="nft constructer" />
                   </div>
                   <div className="service-content">
                     <h3>Real Estate Tokenization</h3>
@@ -438,7 +487,7 @@ function HiCoin() {
                   data-aos-duration="1000"
                 >
                   <div className="service-icon">
-                    <img src="assets/img/icon/peer.png" alt="" />
+                    <img src="assets/img/icon/peer.png" alt="nft constructer" />
                   </div>
                   <div className="service-content">
                     <h3>Peer to Peer Exchange</h3>
@@ -459,7 +508,7 @@ function HiCoin() {
                   data-aos-duration="1500"
                 >
                   <div className="service-icon">
-                    <img src="assets/img/icon/ipo.png" alt="" />
+                    <img src="assets/img/icon/ipo.png" alt="nft constructer" />
                   </div>
                   <div className="service-content">
                     <h3>IPO Development</h3>
@@ -480,7 +529,7 @@ function HiCoin() {
                   data-aos-duration="2000"
                 >
                   <div className="service-icon">
-                    <img src="assets/img/icon/nft.png" alt="" />
+                    <img src="assets/img/icon/nft.png" alt="nft constructer" />
                   </div>
                   <div className="service-content">
                     <h3>NFT Maintenance & Support</h3>
@@ -513,43 +562,142 @@ function HiCoin() {
               <div className="images-slider-1">
                 <div className="images-slider-wrapper">
                   <div className="images-slider-imgs">
-                    <img src="assets/img/inner/logo/1.jpg" alt="" />
-                    <img src="assets/img/inner/logo/2.jpg" alt="" />
-                    <img src="assets/img/inner/logo/3.jpg" alt="" />
-                    <img src="assets/img/inner/logo/4.jpg" alt="" />
-                    <img src="assets/img/inner/logo/5.jpg" alt="" />
-                    <img src="assets/img/inner/logo/6.jpg" alt="" />
-                    <img src="assets/img/inner/logo/7.jpg" alt="" />
-                    <img src="assets/img/inner/logo/8.jpg" alt="" />
-                    <img src="assets/img/inner/logo/9.jpg" alt="" />
-                    <img src="assets/img/inner/logo/10.jpg" alt="" />
-                    <img src="assets/img/inner/logo/11.jpg" alt="" />
+                    <img
+                      src="assets/img/inner/logo/1.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/2.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/3.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/4.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/5.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/6.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/7.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/8.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/9.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/10.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/11.jpg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="images-slider-imgs">
-                    <img src="assets/img/inner/logo/1.jpg" alt="" />
-                    <img src="assets/img/inner/logo/2.jpg" alt="" />
-                    <img src="assets/img/inner/logo/3.jpg" alt="" />
-                    <img src="assets/img/inner/logo/4.jpg" alt="" />
-                    <img src="assets/img/inner/logo/5.jpg" alt="" />
-                    <img src="assets/img/inner/logo/6.jpg" alt="" />
-                    <img src="assets/img/inner/logo/7.jpg" alt="" />
-                    <img src="assets/img/inner/logo/8.jpg" alt="" />
-                    <img src="assets/img/inner/logo/9.jpg" alt="" />
-                    <img src="assets/img/inner/logo/10.jpg" alt="" />
-                    <img src="assets/img/inner/logo/11.jpg" alt="" />
+                    <img
+                      src="assets/img/inner/logo/1.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/2.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/3.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/4.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/5.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/6.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/7.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/8.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/9.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/10.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/11.jpg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="images-slider-imgs">
-                    <img src="assets/img/inner/logo/1.jpg" alt="" />
-                    <img src="assets/img/inner/logo/2.jpg" alt="" />
-                    <img src="assets/img/inner/logo/3.jpg" alt="" />
-                    <img src="assets/img/inner/logo/4.jpg" alt="" />
-                    <img src="assets/img/inner/logo/5.jpg" alt="" />
-                    <img src="assets/img/inner/logo/6.jpg" alt="" />
-                    <img src="assets/img/inner/logo/7.jpg" alt="" />
-                    <img src="assets/img/inner/logo/8.jpg" alt="" />
-                    <img src="assets/img/inner/logo/9.jpg" alt="" />
-                    <img src="assets/img/inner/logo/10.jpg" alt="" />
-                    <img src="assets/img/inner/logo/11.jpg" alt="" />
+                    <img
+                      src="assets/img/inner/logo/1.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/2.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/3.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/4.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/5.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/6.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/7.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/8.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/9.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/10.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/11.jpg"
+                      alt="nft constructer"
+                    />
                   </div>
                 </div>
               </div>
@@ -587,7 +735,7 @@ function HiCoin() {
                   <p>BlockChain Platform</p>
                   <img
                     src="assets/imgs/triangle.png"
-                    alt=""
+                    alt="nft constructer"
                     className="arrow-down"
                   />
                 </div>
@@ -600,7 +748,7 @@ function HiCoin() {
                   <p>Storage Platform</p>
                   <img
                     src="assets/imgs/triangle.png"
-                    alt=""
+                    alt="nft constructer"
                     className="arrow-down"
                   />
                 </div>
@@ -613,7 +761,7 @@ function HiCoin() {
                   <p>NFT Standards</p>
                   <img
                     src="assets/imgs/triangle.png"
-                    alt=""
+                    alt="nft constructer"
                     className="arrow-down"
                   />
                 </div>
@@ -626,7 +774,7 @@ function HiCoin() {
                   <p>Front End Frameworks</p>
                   <img
                     src="assets/imgs/triangle.png"
-                    alt=""
+                    alt="nft constructer"
                     className="arrow-down"
                   />
                 </div>
@@ -639,7 +787,7 @@ function HiCoin() {
                   <p>Programming Languages</p>
                   <img
                     src="assets/imgs/triangle.png"
-                    alt=""
+                    alt="nft constructer"
                     className="arrow-down"
                   />
                 </div>
@@ -652,7 +800,7 @@ function HiCoin() {
                   <p>Cloud Platforms</p>
                   <img
                     src="assets/imgs/triangle.png"
-                    alt=""
+                    alt="nft constructer"
                     className="arrow-down"
                   />
                 </div>
@@ -817,7 +965,10 @@ function HiCoin() {
                   data-aos="fade-up"
                   data-aos-duration="1000"
                 >
-                  <img src="assets/img/inner/chainup.png" alt="" />
+                  <img
+                    src="assets/img/inner/chainup.png"
+                    alt="nft constructer"
+                  />
                 </div>
                 <div
                   className="chainup-content"
@@ -831,7 +982,10 @@ function HiCoin() {
                   <div className="chainup-inner-grid">
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/client.svg" alt="" />
+                        <img
+                          src="assets/img/icon/client.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -843,7 +997,10 @@ function HiCoin() {
 
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/financial.svg" alt="" />
+                        <img
+                          src="assets/img/icon/financial.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -854,7 +1011,10 @@ function HiCoin() {
                     </div>
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/crypto.svg" alt="" />
+                        <img
+                          src="assets/img/icon/crypto.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -865,7 +1025,10 @@ function HiCoin() {
                     </div>
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/nft.svg" alt="" />
+                        <img
+                          src="assets/img/icon/nft.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -876,7 +1039,10 @@ function HiCoin() {
                     </div>
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/region.svg" alt="" />
+                        <img
+                          src="assets/img/icon/region.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -887,7 +1053,10 @@ function HiCoin() {
                     </div>
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/wallet.svg" alt="" />
+                        <img
+                          src="assets/img/icon/wallet.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -927,7 +1096,10 @@ function HiCoin() {
                 >
                   <div className="card-main-content">
                     <div className="market-card-img">
-                      <img src="assets/img/icon/card.png" alt="" />
+                      <img
+                        src="assets/img/icon/card.png"
+                        alt="nft constructer"
+                      />
                     </div>
                     <div className="market-card-content">
                       <h3>
@@ -947,7 +1119,10 @@ function HiCoin() {
                 >
                   <div className="card-main-content">
                     <div className="market-card-img">
-                      <img src="assets/img/icon/card.png" alt="" />
+                      <img
+                        src="assets/img/icon/card.png"
+                        alt="nft constructer"
+                      />
                     </div>
                     <div className="market-card-content">
                       <h3>
@@ -961,11 +1136,31 @@ function HiCoin() {
                 </div>
               </div>
             </div>
-            <img src="assets/img/inner/market-1.png" alt="" className="bbl1" />
-            <img src="assets/img/inner/market-2.png" alt="" className="bbl2" />
-            <img src="assets/img/inner/market-3.png" alt="" className="bbl3" />
-            <img src="assets/img/inner/market-4.png" alt="" className="bbl4" />
-            <img src="assets/img/inner/market-5.png" alt="" className="bbl5" />
+            <img
+              src="assets/img/inner/market-1.png"
+              alt="nft constructer"
+              className="bbl1"
+            />
+            <img
+              src="assets/img/inner/market-2.png"
+              alt="nft constructer"
+              className="bbl2"
+            />
+            <img
+              src="assets/img/inner/market-3.png"
+              alt="nft constructer"
+              className="bbl3"
+            />
+            <img
+              src="assets/img/inner/market-4.png"
+              alt="nft constructer"
+              className="bbl4"
+            />
+            <img
+              src="assets/img/inner/market-5.png"
+              alt="nft constructer"
+              className="bbl5"
+            />
           </div>
         </section>
         {/* ===================MARKET REPORT section end  ================== */}
@@ -974,10 +1169,10 @@ function HiCoin() {
           <div id="inner-area">
             <div className="features cpy-6">
               <div className="services-decor">
-                <img src="assets/imgs/decor-ball-1.png" alt="" />
-                <img src="assets/imgs/decor-ball-2.png" alt="" />
-                <img src="assets/imgs/decor-ball-3.png" alt="" />
-                <img src="assets/imgs/decor-ball-4.png" alt="" />
+                <img src="assets/imgs/decor-ball-1.png" alt="nft constructer" />
+                <img src="assets/imgs/decor-ball-2.png" alt="nft constructer" />
+                <img src="assets/imgs/decor-ball-3.png" alt="nft constructer" />
+                <img src="assets/imgs/decor-ball-4.png" alt="nft constructer" />
               </div>
               <div className="container">
                 <div className="section-title">
@@ -993,8 +1188,14 @@ function HiCoin() {
                       data-aos-duration="1000"
                     >
                       <div className="services-icon">
-                        <img src="assets/imgs/paper.png" alt="" />
-                        <img src="assets/imgs/paper-pu.png" alt="" />
+                        <img
+                          src="assets/imgs/paper.png"
+                          alt="nft constructer"
+                        />
+                        <img
+                          src="assets/imgs/paper-pu.png"
+                          alt="nft constructer"
+                        />
                       </div>
 
                       <p>Standardization</p>
@@ -1011,8 +1212,14 @@ function HiCoin() {
                       data-aos-duration="1500"
                     >
                       <div className="services-icon">
-                        <img src="assets/imgs/chart-99.png" alt="" />
-                        <img src="assets/imgs/chart-99-pu.png" alt="" />
+                        <img
+                          src="assets/imgs/chart-99.png"
+                          alt="nft constructer"
+                        />
+                        <img
+                          src="assets/imgs/chart-99-pu.png"
+                          alt="nft constructer"
+                        />
                       </div>
 
                       <p>Marketplace</p>
@@ -1028,8 +1235,11 @@ function HiCoin() {
                       data-aos-duration="2000"
                     >
                       <div className="services-icon">
-                        <img src="assets/imgs/hand.png" alt="" />
-                        <img src="assets/imgs/hand-pu.png" alt="" />
+                        <img src="assets/imgs/hand.png" alt="nft constructer" />
+                        <img
+                          src="assets/imgs/hand-pu.png"
+                          alt="nft constructer"
+                        />
                       </div>
 
                       <p>Ownership</p>
@@ -1045,8 +1255,14 @@ function HiCoin() {
                       data-aos-duration="1000"
                     >
                       <div className="services-icon">
-                        <img src="assets/imgs/hammer.png" alt="" />
-                        <img src="assets/imgs/hammer-pu.png" alt="" />
+                        <img
+                          src="assets/imgs/hammer.png"
+                          alt="nft constructer"
+                        />
+                        <img
+                          src="assets/imgs/hammer-pu.png"
+                          alt="nft constructer"
+                        />
                       </div>
 
                       <p>Bidding</p>
@@ -1062,8 +1278,14 @@ function HiCoin() {
                       data-aos-duration="1500"
                     >
                       <div className="services-icon">
-                        <img src="assets/imgs/trace.png" alt="" />
-                        <img src="assets/imgs/trace-pu.png" alt="" />
+                        <img
+                          src="assets/imgs/trace.png"
+                          alt="nft constructer"
+                        />
+                        <img
+                          src="assets/imgs/trace-pu.png"
+                          alt="nft constructer"
+                        />
                       </div>
 
                       <p>Traceability</p>
@@ -1079,8 +1301,14 @@ function HiCoin() {
                       data-aos-duration="2000"
                     >
                       <div className="services-icon">
-                        <img src="assets/imgs/rocket.png" alt="" />
-                        <img src="assets/imgs/rocket-pu.png" alt="" />
+                        <img
+                          src="assets/imgs/rocket.png"
+                          alt="nft constructer"
+                        />
+                        <img
+                          src="assets/imgs/rocket-pu.png"
+                          alt="nft constructer"
+                        />
                       </div>
 
                       <p>New Project</p>
@@ -1096,8 +1324,14 @@ function HiCoin() {
                       data-aos-duration="1000"
                     >
                       <div className="services-icon">
-                        <img src="assets/imgs/circles.png" alt="" />
-                        <img src="assets/imgs/circles-pu.png" alt="" />
+                        <img
+                          src="assets/imgs/circles.png"
+                          alt="nft constructer"
+                        />
+                        <img
+                          src="assets/imgs/circles-pu.png"
+                          alt="nft constructer"
+                        />
                       </div>
 
                       <p>Tracking</p>
@@ -1114,8 +1348,14 @@ function HiCoin() {
                       data-aos-duration="1500"
                     >
                       <div className="services-icon">
-                        <img src="assets/imgs/goverment.png" alt="" />
-                        <img src="assets/imgs/goverment-pu.png" alt="" />
+                        <img
+                          src="assets/imgs/goverment.png"
+                          alt="nft constructer"
+                        />
+                        <img
+                          src="assets/imgs/goverment-pu.png"
+                          alt="nft constructer"
+                        />
                       </div>
 
                       <p>Governance Attributes</p>
@@ -1139,9 +1379,9 @@ function HiCoin() {
           <div id="inner-area">
             <div className="benefits-area">
               <div className="benefits-decor">
-                <img src="assets/imgs/decor-ball-5.png" alt="" />
-                <img src="assets/imgs/decor-ball-6.png" alt="" />
-                <img src="assets/imgs/decor-ball-7.png" alt="" />
+                <img src="assets/imgs/decor-ball-5.png" alt="nft constructer" />
+                <img src="assets/imgs/decor-ball-6.png" alt="nft constructer" />
+                <img src="assets/imgs/decor-ball-7.png" alt="nft constructer" />
               </div>
               <div className="container benefit-section">
                 <div className="title">
@@ -1157,28 +1397,37 @@ function HiCoin() {
                 >
                   <img
                     src="assets/imgs/center-nft.png"
-                    alt=""
+                    alt="nft constructer"
                     className="spider-center"
                   />
 
                   <div className="benefits">
                     <div className="benefits-container">
                       <div className="benefit-box">
-                        <img src="assets/imgs/liquidity.png" alt="" />
+                        <img
+                          src="assets/imgs/liquidity.png"
+                          alt="nft constructer"
+                        />
                         <p>NFT Liquidity</p>
                       </div>
                       <div className="benefit-box">
-                        <img src="assets/imgs/gas.png" alt="" />
+                        <img src="assets/imgs/gas.png" alt="nft constructer" />
                         <p>Lowest Gas Price</p>
                       </div>
                     </div>
                     <div className="benefits-container">
                       <div className="benefit-box">
-                        <img src="assets/imgs/marketplace.png" alt="" />
+                        <img
+                          src="assets/imgs/marketplace.png"
+                          alt="nft constructer"
+                        />
                         <p>Multi-Chain NFT Marketplace</p>
                       </div>
                       <div className="benefit-box">
-                        <img src="assets/imgs/smart-contract.png" alt="" />
+                        <img
+                          src="assets/imgs/smart-contract.png"
+                          alt="nft constructer"
+                        />
                         <p>
                           Smart contract <br /> Audited NFT
                         </p>
@@ -1187,32 +1436,50 @@ function HiCoin() {
 
                     <div className="benefits-container">
                       <div className="benefit-box">
-                        <img src="assets/imgs/stakling.png" alt="" />
+                        <img
+                          src="assets/imgs/stakling.png"
+                          alt="nft constructer"
+                        />
                         <p>NFT Staking</p>
                       </div>
                       <div className="benefit-box">
-                        <img src="assets/imgs/lending.png" alt="" />
+                        <img
+                          src="assets/imgs/lending.png"
+                          alt="nft constructer"
+                        />
                         <p>NFT Lending</p>
                       </div>
                     </div>
 
                     <div className="benefits-container">
                       <div className="benefit-box">
-                        <img src="assets/imgs/launchpad.png" alt="" />
+                        <img
+                          src="assets/imgs/launchpad.png"
+                          alt="nft constructer"
+                        />
                         <p>NFT Launch Pad</p>
                       </div>
                       <div className="benefit-box">
-                        <img src="assets/imgs/auction.png" alt="" />
+                        <img
+                          src="assets/imgs/auction.png"
+                          alt="nft constructer"
+                        />
                         <p>Bidding & Auction</p>
                       </div>
                     </div>
                     <div className="benefits-container">
                       <div className="benefit-box">
-                        <img src="assets/imgs/ownership.png" alt="" />
+                        <img
+                          src="assets/imgs/ownership.png"
+                          alt="nft constructer"
+                        />
                         <p>Fractional Ownership</p>
                       </div>
                       <div className="benefit-box">
-                        <img src="assets/imgs/minting.png" alt="" />
+                        <img
+                          src="assets/imgs/minting.png"
+                          alt="nft constructer"
+                        />
                         <p>Lazy Minting</p>
                       </div>
                     </div>
@@ -1243,43 +1510,142 @@ function HiCoin() {
               <div className="images-slider-1">
                 <div className="images-slider-wrapper">
                   <div className="images-slider-imgs">
-                    <img src="assets/img/inner/logo/1.jpg" alt="" />
-                    <img src="assets/img/inner/logo/2.jpg" alt="" />
-                    <img src="assets/img/inner/logo/3.jpg" alt="" />
-                    <img src="assets/img/inner/logo/4.jpg" alt="" />
-                    <img src="assets/img/inner/logo/5.jpg" alt="" />
-                    <img src="assets/img/inner/logo/6.jpg" alt="" />
-                    <img src="assets/img/inner/logo/7.jpg" alt="" />
-                    <img src="assets/img/inner/logo/8.jpg" alt="" />
-                    <img src="assets/img/inner/logo/9.jpg" alt="" />
-                    <img src="assets/img/inner/logo/10.jpg" alt="" />
-                    <img src="assets/img/inner/logo/11.jpg" alt="" />
+                    <img
+                      src="assets/img/inner/logo/1.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/2.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/3.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/4.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/5.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/6.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/7.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/8.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/9.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/10.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/11.jpg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="images-slider-imgs">
-                    <img src="assets/img/inner/logo/1.jpg" alt="" />
-                    <img src="assets/img/inner/logo/2.jpg" alt="" />
-                    <img src="assets/img/inner/logo/3.jpg" alt="" />
-                    <img src="assets/img/inner/logo/4.jpg" alt="" />
-                    <img src="assets/img/inner/logo/5.jpg" alt="" />
-                    <img src="assets/img/inner/logo/6.jpg" alt="" />
-                    <img src="assets/img/inner/logo/7.jpg" alt="" />
-                    <img src="assets/img/inner/logo/8.jpg" alt="" />
-                    <img src="assets/img/inner/logo/9.jpg" alt="" />
-                    <img src="assets/img/inner/logo/10.jpg" alt="" />
-                    <img src="assets/img/inner/logo/11.jpg" alt="" />
+                    <img
+                      src="assets/img/inner/logo/1.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/2.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/3.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/4.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/5.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/6.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/7.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/8.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/9.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/10.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/11.jpg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="images-slider-imgs">
-                    <img src="assets/img/inner/logo/1.jpg" alt="" />
-                    <img src="assets/img/inner/logo/2.jpg" alt="" />
-                    <img src="assets/img/inner/logo/3.jpg" alt="" />
-                    <img src="assets/img/inner/logo/4.jpg" alt="" />
-                    <img src="assets/img/inner/logo/5.jpg" alt="" />
-                    <img src="assets/img/inner/logo/6.jpg" alt="" />
-                    <img src="assets/img/inner/logo/7.jpg" alt="" />
-                    <img src="assets/img/inner/logo/8.jpg" alt="" />
-                    <img src="assets/img/inner/logo/9.jpg" alt="" />
-                    <img src="assets/img/inner/logo/10.jpg" alt="" />
-                    <img src="assets/img/inner/logo/11.jpg" alt="" />
+                    <img
+                      src="assets/img/inner/logo/1.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/2.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/3.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/4.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/5.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/6.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/7.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/8.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/9.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/10.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/11.jpg"
+                      alt="nft constructer"
+                    />
                   </div>
                 </div>
               </div>

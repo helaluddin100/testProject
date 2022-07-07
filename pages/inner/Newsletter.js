@@ -78,7 +78,7 @@ class DemoForm extends Component {
 
             <img
               src="assets/imgs/banner-img.png"
-              alt=""
+              alt="nft constructer"
               className="banner-img"
             />
           </div>

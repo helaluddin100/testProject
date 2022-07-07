@@ -44,7 +44,10 @@ function About() {
                 data-aos-duration="1000"
               >
                 <div className="about-us-img">
-                  <img src="assets/img/inner/about-us.png" alt="" />
+                  <img
+                    src="assets/img/inner/about-us.png"
+                    alt="nft constructer"
+                  />
                 </div>
               </div>
               <div
@@ -102,7 +105,10 @@ function About() {
                 <div className="industries-ca">
                   <div className="industries-ca-inner">
                     <div className="icon-area">
-                      <img src="assets/img/design/1.webp" alt="" />
+                      <img
+                        src="assets/img/design/1.webp"
+                        alt="nft constructer"
+                      />
                     </div>
                     <div className="industries-name">
                       <p>Fintech</p>
@@ -114,7 +120,10 @@ function About() {
                 <div className="industries-ca">
                   <div className="industries-ca-inner">
                     <div className="icon-area">
-                      <img src="assets/img/design/2.webp" alt="" />
+                      <img
+                        src="assets/img/design/2.webp"
+                        alt="nft constructer"
+                      />
                     </div>
                     <div className="industries-name">
                       <p>Education</p>
@@ -126,7 +135,10 @@ function About() {
                 <div className="industries-ca">
                   <div className="industries-ca-inner">
                     <div className="icon-area">
-                      <img src="assets/img/design/3.webp" alt="" />
+                      <img
+                        src="assets/img/design/3.webp"
+                        alt="nft constructer"
+                      />
                     </div>
                     <div className="industries-name">
                       <p>e-Commerce</p>
@@ -138,7 +150,10 @@ function About() {
                 <div className="industries-ca">
                   <div className="industries-ca-inner">
                     <div className="icon-area">
-                      <img src="assets/img/design/4.webp" alt="" />
+                      <img
+                        src="assets/img/design/4.webp"
+                        alt="nft constructer"
+                      />
                     </div>
                     <div className="industries-name">
                       <p>Transport</p>
@@ -150,7 +165,10 @@ function About() {
                 <div className="industries-ca">
                   <div className="industries-ca-inner">
                     <div className="icon-area">
-                      <img src="assets/img/design/5.webp" alt="" />
+                      <img
+                        src="assets/img/design/5.webp"
+                        alt="nft constructer"
+                      />
                     </div>
                     <div className="industries-name">
                       <p>Real Estate</p>
@@ -162,7 +180,10 @@ function About() {
                 <div className="industries-ca">
                   <div className="industries-ca-inner">
                     <div className="icon-area">
-                      <img src="assets/img/design/6.webp" alt="" />
+                      <img
+                        src="assets/img/design/6.webp"
+                        alt="nft constructer"
+                      />
                     </div>
                     <div className="industries-name">
                       <p>Logistics</p>
@@ -174,7 +195,10 @@ function About() {
                 <div className="industries-ca">
                   <div className="industries-ca-inner">
                     <div className="icon-area">
-                      <img src="assets/img/design/7.webp" alt="" />
+                      <img
+                        src="assets/img/design/7.webp"
+                        alt="nft constructer"
+                      />
                     </div>
                     <div className="industries-name">
                       <p>Insurance</p>
@@ -186,7 +210,10 @@ function About() {
                 <div className="industries-ca">
                   <div className="industries-ca-inner">
                     <div className="icon-area">
-                      <img src="assets/img/design/8.webp" alt="" />
+                      <img
+                        src="assets/img/design/8.webp"
+                        alt="nft constructer"
+                      />
                     </div>
                     <div className="industries-name">
                       <p>Healthcare</p>
@@ -198,7 +225,10 @@ function About() {
                 <div className="industries-ca">
                   <div className="industries-ca-inner">
                     <div className="icon-area">
-                      <img src="assets/img/design/9.webp" alt="" />
+                      <img
+                        src="assets/img/design/9.webp"
+                        alt="nft constructer"
+                      />
                     </div>
                     <div className="industries-name">
                       <p>Digital Marketing</p>
@@ -210,7 +240,10 @@ function About() {
                 <div className="industries-ca">
                   <div className="industries-ca-inner">
                     <div className="icon-area">
-                      <img src="assets/img/design/10.webp" alt="" />
+                      <img
+                        src="assets/img/design/10.webp"
+                        alt="nft constructer"
+                      />
                     </div>
                     <div className="industries-name">
                       <p>Media & Entertainment</p>
@@ -239,18 +272,24 @@ function About() {
             <div className="talk-4">
               <div className="talk-4-inner">
                 <div className="talk-4-icon">
-                  <img src="assets/img/icon/telegram.svg" alt="" />
+                  <img
+                    src="assets/img/icon/telegram.svg"
+                    alt="nft constructer"
+                  />
                 </div>
                 <div className="talk-4-text">
                   <h3>TELEGRAM US</h3>
-                  <a href="" className="talk-link">
-                    @maticzofficial
+                  <a href="https://t.me/nft_constructer" className="talk-link">
+                    @nft_constructer
                   </a>
                 </div>
               </div>
               <div className="talk-4-inner">
                 <div className="talk-4-icon">
-                  <img src="assets/img/icon/whatsapp.svg" alt="" />
+                  <img
+                    src="assets/img/icon/whatsapp.svg"
+                    alt="nft constructer"
+                  />
                 </div>
                 <div className="talk-4-text">
                   <h3>WHATAPP US</h3>
@@ -261,7 +300,7 @@ function About() {
               </div>
               <div className="talk-4-inner">
                 <div className="talk-4-icon">
-                  <img src="assets/img/icon/skype.svg" alt="" />
+                  <img src="assets/img/icon/skype.svg" alt="nft constructer" />
                 </div>
                 <div className="talk-4-text">
                   <h3>Skype</h3>
@@ -272,7 +311,7 @@ function About() {
               </div>
               <div className="talk-4-inner">
                 <div className="talk-4-icon">
-                  <img src="assets/img/icon/email.svg" alt="" />
+                  <img src="assets/img/icon/email.svg" alt="nft constructer" />
                 </div>
                 <div className="talk-4-text">
                   <h3>Email</h3>

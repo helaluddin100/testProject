@@ -19,7 +19,7 @@ function Footer() {
             <div className="social-area">
               <div className="footer-first">
                 <div className="footer-logo">
-                  <img src="assets/img/footer-logo.png" alt="" />
+                  <img src="assets/img/footer-logo.png" alt="nft constructer" />
                 </div>
                 <p className="urbanist-white-14">
                   Sed ut perspiciatis unde omnis iste natus error sit voluptate

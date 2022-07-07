@@ -41,7 +41,7 @@ function Review() {
                     <div className="review-img">
                       <img
                         src="assets/img/review/nft_constructer_1.jpg"
-                        alt=""
+                        alt="nft constructer"
                       />
                     </div>
                     <div className="review-content">
@@ -77,7 +77,7 @@ function Review() {
 
                       {/* <div className="client-info">
                         <div className="client-img">
-                          <img src="assets/img/inner/client.png" alt="" />
+                          <img src="assets/img/inner/client.png" alt="nft constructer" />
                         </div>
                         <div className="client-name">
                           <h3>Trevor Johnson </h3>
@@ -92,7 +92,7 @@ function Review() {
                     <div className="review-img">
                       <img
                         src="assets/img/review/nft_constructer_3.jpg"
-                        alt=""
+                        alt="nft constructer"
                       />
                     </div>
                     <div className="review-content">
@@ -128,7 +128,7 @@ function Review() {
 
                       {/* <div className="client-info">
                         <div className="client-img">
-                          <img src="assets/img/inner/client.png" alt="" />
+                          <img src="assets/img/inner/client.png" alt="nft constructer" />
                         </div>
                         <div className="client-name">
                           <h3>Taylor Hapston</h3>
@@ -143,7 +143,7 @@ function Review() {
                     <div className="review-img">
                       <img
                         src="assets/img/review/nft_constructer_2.jpg"
-                        alt=""
+                        alt="nft constructer"
                       />
                     </div>
                     <div className="review-content">
@@ -178,7 +178,7 @@ function Review() {
 
                       {/* <div className="client-info">
                         <div className="client-img">
-                          <img src="assets/img/inner/client.png" alt="" />
+                          <img src="assets/img/inner/client.png" alt="nft constructer" />
                         </div>
                         <div className="client-name">
                           <h3>Jesse Gilati </h3>
@@ -193,7 +193,7 @@ function Review() {
                     <div className="review-img">
                       <img
                         src="assets/img/review/nft_constructer_4.jpg"
-                        alt=""
+                        alt="nft constructer"
                       />
                     </div>
                     <div className="review-content">
@@ -228,7 +228,7 @@ function Review() {
 
                       {/* <div className="client-info">
                         <div className="client-img">
-                          <img src="assets/img/inner/client.png" alt="" />
+                          <img src="assets/img/inner/client.png" alt="nft constructer" />
                         </div>
                         <div className="client-name">
                           <h3>Jenny Leo</h3>

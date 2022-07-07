@@ -46,7 +46,10 @@ function Home() {
               >
                 <div className="hero-content">
                   <div className="title-top-img">
-                    <img src="assets/img/inner/cr-1.png" alt="" />
+                    <img
+                      src="assets/img/inner/cr-1.png"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="widht-60">
                     <h1 className="title">
@@ -78,17 +81,20 @@ function Home() {
                 data-aos="fade-up"
                 data-aos-duration="2000"
               >
-                <img src="assets/img/hero/webdevlopment.gif" alt="" />
+                <img
+                  src="assets/img/hero/webdevlopment.gif"
+                  alt="nft constructer"
+                />
               </div>
             </div>
           </div>
 
           <div className="side-img-2">
-            <img src="assets/img/inner/cr-3.png" alt="" />
+            <img src="assets/img/inner/cr-3.png" alt="nft constructer" />
           </div>
 
           <div className="input-arrow">
-            <img src="assets/img/inner/input-arrow.png" alt="" />
+            <img src="assets/img/inner/input-arrow.png" alt="nft constructer" />
           </div>
         </section>
       </div>
@@ -107,7 +113,10 @@ function Home() {
                     <a href="" className="service-name">
                       # Reliable Platform
                     </a>
-                    <img src="assets/img/inner/timer.svg" alt="" />
+                    <img
+                      src="assets/img/inner/timer.svg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <p>Most Realiable Developers </p>
                 </div>
@@ -122,7 +131,10 @@ function Home() {
                     <a href="" className="service-name">
                       # Project&apos;s Confidentiality
                     </a>
-                    <img src="assets/img/inner/doller.svg" alt="" />
+                    <img
+                      src="assets/img/inner/doller.svg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <p>All of Your Information Is Secure </p>
                 </div>
@@ -137,7 +149,10 @@ function Home() {
                     <a href="" className="service-name">
                       # Communicative
                     </a>
-                    <img src="assets/img/inner/notice.svg" alt="" />
+                    <img
+                      src="assets/img/inner/notice.svg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <p>Clients say the team feels like their employees.</p>
                 </div>
@@ -152,7 +167,7 @@ function Home() {
                     <a href="" className="service-name">
                       # 24/7 Support
                     </a>
-                    <img src="assets/img/inner/vip.svg" alt="" />
+                    <img src="assets/img/inner/vip.svg" alt="nft constructer" />
                   </div>
                   <p>Our developers are there to support you 24*7</p>
                 </div>
@@ -178,43 +193,142 @@ function Home() {
               <div className="images-slider-1">
                 <div className="images-slider-wrapper">
                   <div className="images-slider-imgs">
-                    <img src="assets/img/inner/logo/1.jpg" alt="" />
-                    <img src="assets/img/inner/logo/2.jpg" alt="" />
-                    <img src="assets/img/inner/logo/3.jpg" alt="" />
-                    <img src="assets/img/inner/logo/4.jpg" alt="" />
-                    <img src="assets/img/inner/logo/5.jpg" alt="" />
-                    <img src="assets/img/inner/logo/6.jpg" alt="" />
-                    <img src="assets/img/inner/logo/7.jpg" alt="" />
-                    <img src="assets/img/inner/logo/8.jpg" alt="" />
-                    <img src="assets/img/inner/logo/9.jpg" alt="" />
-                    <img src="assets/img/inner/logo/10.jpg" alt="" />
-                    <img src="assets/img/inner/logo/11.jpg" alt="" />
+                    <img
+                      src="assets/img/inner/logo/1.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/2.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/3.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/4.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/5.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/6.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/7.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/8.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/9.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/10.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/11.jpg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="images-slider-imgs">
-                    <img src="assets/img/inner/logo/1.jpg" alt="" />
-                    <img src="assets/img/inner/logo/2.jpg" alt="" />
-                    <img src="assets/img/inner/logo/3.jpg" alt="" />
-                    <img src="assets/img/inner/logo/4.jpg" alt="" />
-                    <img src="assets/img/inner/logo/5.jpg" alt="" />
-                    <img src="assets/img/inner/logo/6.jpg" alt="" />
-                    <img src="assets/img/inner/logo/7.jpg" alt="" />
-                    <img src="assets/img/inner/logo/8.jpg" alt="" />
-                    <img src="assets/img/inner/logo/9.jpg" alt="" />
-                    <img src="assets/img/inner/logo/10.jpg" alt="" />
-                    <img src="assets/img/inner/logo/11.jpg" alt="" />
+                    <img
+                      src="assets/img/inner/logo/1.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/2.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/3.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/4.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/5.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/6.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/7.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/8.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/9.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/10.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/11.jpg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="images-slider-imgs">
-                    <img src="assets/img/inner/logo/1.jpg" alt="" />
-                    <img src="assets/img/inner/logo/2.jpg" alt="" />
-                    <img src="assets/img/inner/logo/3.jpg" alt="" />
-                    <img src="assets/img/inner/logo/4.jpg" alt="" />
-                    <img src="assets/img/inner/logo/5.jpg" alt="" />
-                    <img src="assets/img/inner/logo/6.jpg" alt="" />
-                    <img src="assets/img/inner/logo/7.jpg" alt="" />
-                    <img src="assets/img/inner/logo/8.jpg" alt="" />
-                    <img src="assets/img/inner/logo/9.jpg" alt="" />
-                    <img src="assets/img/inner/logo/10.jpg" alt="" />
-                    <img src="assets/img/inner/logo/11.jpg" alt="" />
+                    <img
+                      src="assets/img/inner/logo/1.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/2.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/3.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/4.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/5.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/6.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/7.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/8.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/9.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/10.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/11.jpg"
+                      alt="nft constructer"
+                    />
                   </div>
                 </div>
               </div>
@@ -232,7 +346,10 @@ function Home() {
                   data-aos="fade-up"
                   data-aos-duration="1000"
                 >
-                  <img src="assets/img/inner/chainup.png" alt="" />
+                  <img
+                    src="assets/img/inner/chainup.png"
+                    alt="nft constructer"
+                  />
                 </div>
                 <div
                   className="chainup-content"
@@ -246,7 +363,10 @@ function Home() {
                   <div className="chainup-inner-grid">
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/client.svg" alt="" />
+                        <img
+                          src="assets/img/icon/client.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -258,7 +378,10 @@ function Home() {
 
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/financial.svg" alt="" />
+                        <img
+                          src="assets/img/icon/financial.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -269,7 +392,10 @@ function Home() {
                     </div>
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/crypto.svg" alt="" />
+                        <img
+                          src="assets/img/icon/crypto.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -280,7 +406,10 @@ function Home() {
                     </div>
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/nft.svg" alt="" />
+                        <img
+                          src="assets/img/icon/nft.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -291,7 +420,10 @@ function Home() {
                     </div>
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/region.svg" alt="" />
+                        <img
+                          src="assets/img/icon/region.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -302,7 +434,10 @@ function Home() {
                     </div>
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/wallet.svg" alt="" />
+                        <img
+                          src="assets/img/icon/wallet.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -338,7 +473,10 @@ function Home() {
                 >
                   <div className="card-main-content">
                     <div className="market-card-img">
-                      <img src="assets/img/icon/card.png" alt="" />
+                      <img
+                        src="assets/img/icon/card.png"
+                        alt="nft constructer"
+                      />
                     </div>
                     <div className="market-card-content">
                       <h3>
@@ -357,7 +495,10 @@ function Home() {
                 >
                   <div className="card-main-content">
                     <div className="market-card-img">
-                      <img src="assets/img/icon/card.png" alt="" />
+                      <img
+                        src="assets/img/icon/card.png"
+                        alt="nft constructer"
+                      />
                     </div>
                     <div className="market-card-content">
                       <h3>
@@ -371,11 +512,31 @@ function Home() {
                 </div>
               </div>
             </div>
-            <img src="assets/img/inner/market-1.png" alt="" className="bbl1" />
-            <img src="assets/img/inner/market-2.png" alt="" className="bbl2" />
-            <img src="assets/img/inner/market-3.png" alt="" className="bbl3" />
-            <img src="assets/img/inner/market-4.png" alt="" className="bbl4" />
-            <img src="assets/img/inner/market-5.png" alt="" className="bbl5" />
+            <img
+              src="assets/img/inner/market-1.png"
+              alt="nft constructer"
+              className="bbl1"
+            />
+            <img
+              src="assets/img/inner/market-2.png"
+              alt="nft constructer"
+              className="bbl2"
+            />
+            <img
+              src="assets/img/inner/market-3.png"
+              alt="nft constructer"
+              className="bbl3"
+            />
+            <img
+              src="assets/img/inner/market-4.png"
+              alt="nft constructer"
+              className="bbl4"
+            />
+            <img
+              src="assets/img/inner/market-5.png"
+              alt="nft constructer"
+              className="bbl5"
+            />
           </div>
         </section>
         {/* ===================MARKET REPORT section end  ================== */}
@@ -398,43 +559,142 @@ function Home() {
               <div className="images-slider-1">
                 <div className="images-slider-wrapper">
                   <div className="images-slider-imgs">
-                    <img src="assets/img/inner/logo/1.jpg" alt="" />
-                    <img src="assets/img/inner/logo/2.jpg" alt="" />
-                    <img src="assets/img/inner/logo/3.jpg" alt="" />
-                    <img src="assets/img/inner/logo/4.jpg" alt="" />
-                    <img src="assets/img/inner/logo/5.jpg" alt="" />
-                    <img src="assets/img/inner/logo/6.jpg" alt="" />
-                    <img src="assets/img/inner/logo/7.jpg" alt="" />
-                    <img src="assets/img/inner/logo/8.jpg" alt="" />
-                    <img src="assets/img/inner/logo/9.jpg" alt="" />
-                    <img src="assets/img/inner/logo/10.jpg" alt="" />
-                    <img src="assets/img/inner/logo/11.jpg" alt="" />
+                    <img
+                      src="assets/img/inner/logo/1.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/2.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/3.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/4.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/5.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/6.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/7.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/8.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/9.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/10.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/11.jpg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="images-slider-imgs">
-                    <img src="assets/img/inner/logo/1.jpg" alt="" />
-                    <img src="assets/img/inner/logo/2.jpg" alt="" />
-                    <img src="assets/img/inner/logo/3.jpg" alt="" />
-                    <img src="assets/img/inner/logo/4.jpg" alt="" />
-                    <img src="assets/img/inner/logo/5.jpg" alt="" />
-                    <img src="assets/img/inner/logo/6.jpg" alt="" />
-                    <img src="assets/img/inner/logo/7.jpg" alt="" />
-                    <img src="assets/img/inner/logo/8.jpg" alt="" />
-                    <img src="assets/img/inner/logo/9.jpg" alt="" />
-                    <img src="assets/img/inner/logo/10.jpg" alt="" />
-                    <img src="assets/img/inner/logo/11.jpg" alt="" />
+                    <img
+                      src="assets/img/inner/logo/1.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/2.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/3.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/4.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/5.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/6.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/7.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/8.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/9.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/10.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/11.jpg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="images-slider-imgs">
-                    <img src="assets/img/inner/logo/1.jpg" alt="" />
-                    <img src="assets/img/inner/logo/2.jpg" alt="" />
-                    <img src="assets/img/inner/logo/3.jpg" alt="" />
-                    <img src="assets/img/inner/logo/4.jpg" alt="" />
-                    <img src="assets/img/inner/logo/5.jpg" alt="" />
-                    <img src="assets/img/inner/logo/6.jpg" alt="" />
-                    <img src="assets/img/inner/logo/7.jpg" alt="" />
-                    <img src="assets/img/inner/logo/8.jpg" alt="" />
-                    <img src="assets/img/inner/logo/9.jpg" alt="" />
-                    <img src="assets/img/inner/logo/10.jpg" alt="" />
-                    <img src="assets/img/inner/logo/11.jpg" alt="" />
+                    <img
+                      src="assets/img/inner/logo/1.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/2.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/3.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/4.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/5.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/6.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/7.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/8.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/9.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/10.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/11.jpg"
+                      alt="nft constructer"
+                    />
                   </div>
                 </div>
               </div>
@@ -458,7 +718,7 @@ function Home() {
               data-aos="fade-up"
               data-aos-duration="1000"
             >
-              <img src="assets/img/inner/map.png" alt="" />
+              <img src="assets/img/inner/map.png" alt="nft constructer" />
             </div>
           </div>
         </section>

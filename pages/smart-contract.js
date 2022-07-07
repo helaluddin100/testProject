@@ -80,13 +80,29 @@ function SmartContract() {
             >
               <img
                 src="assets/img/hero/smart-contract-dev.png"
-                alt=""
+                alt="nft constructer"
                 className="hero-bg"
               />
-              <img src="assets/img/hero/5.png" alt="" className="contract1" />
-              <img src="assets/img/hero/6.png" alt="" className="contract2" />
-              <img src="assets/img/hero/7.png" alt="" className="contract3" />
-              <img src="assets/img/hero/8.png" alt="" className="contract4" />
+              <img
+                src="assets/img/hero/5.png"
+                alt="nft constructer"
+                className="contract1"
+              />
+              <img
+                src="assets/img/hero/6.png"
+                alt="nft constructer"
+                className="contract2"
+              />
+              <img
+                src="assets/img/hero/7.png"
+                alt="nft constructer"
+                className="contract3"
+              />
+              <img
+                src="assets/img/hero/8.png"
+                alt="nft constructer"
+                className="contract4"
+              />
             </div>
           </section>
         </div>
@@ -106,7 +122,10 @@ function SmartContract() {
                     <a href="" className="service-name">
                       # Reliable Platform
                     </a>
-                    <img src="assets/img/inner/timer.svg" alt="" />
+                    <img
+                      src="assets/img/inner/timer.svg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <p>Most Realiable Developers</p>
                 </div>
@@ -121,7 +140,10 @@ function SmartContract() {
                     <a href="" className="service-name">
                       # Project&apos;s Confidentiality
                     </a>
-                    <img src="assets/img/inner/doller.svg" alt="" />
+                    <img
+                      src="assets/img/inner/doller.svg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <p>All of Your Information Is Secure</p>
                 </div>
@@ -136,7 +158,10 @@ function SmartContract() {
                     <a href="" className="service-name">
                       # Communicative
                     </a>
-                    <img src="assets/img/inner/notice.svg" alt="" />
+                    <img
+                      src="assets/img/inner/notice.svg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <p>Clients say the team feels like their employees. </p>
                 </div>
@@ -151,7 +176,7 @@ function SmartContract() {
                     <a href="" className="service-name">
                       # 24/7 Support
                     </a>
-                    <img src="assets/img/inner/vip.svg" alt="" />
+                    <img src="assets/img/inner/vip.svg" alt="nft constructer" />
                   </div>
                   <p>Our developers are there to support you 24*7</p>
                 </div>
@@ -173,7 +198,10 @@ function SmartContract() {
                 data-aos-duration="1000"
               >
                 <div className="about-us-img">
-                  <img src="assets/img/inner/about-us.png" alt="" />
+                  <img
+                    src="assets/img/inner/about-us.png"
+                    alt="nft constructer"
+                  />
                 </div>
               </div>
               <div
@@ -202,8 +230,16 @@ function SmartContract() {
             </div>
           </div>
 
-          <img src="assets/img/inner/cr-8.png" alt="" className="cr8-img" />
-          <img src="assets/img/inner/cr-6.png" alt="" className="cr6-img" />
+          <img
+            src="assets/img/inner/cr-8.png"
+            alt="nft constructer"
+            className="cr8-img"
+          />
+          <img
+            src="assets/img/inner/cr-6.png"
+            alt="nft constructer"
+            className="cr6-img"
+          />
         </section>
         {/* ================about us section end ================== */}
         {/* ===================demo request section ================== */}
@@ -227,43 +263,142 @@ function SmartContract() {
               <div className="images-slider-1">
                 <div className="images-slider-wrapper">
                   <div className="images-slider-imgs">
-                    <img src="assets/img/inner/logo/1.jpg" alt="" />
-                    <img src="assets/img/inner/logo/2.jpg" alt="" />
-                    <img src="assets/img/inner/logo/3.jpg" alt="" />
-                    <img src="assets/img/inner/logo/4.jpg" alt="" />
-                    <img src="assets/img/inner/logo/5.jpg" alt="" />
-                    <img src="assets/img/inner/logo/6.jpg" alt="" />
-                    <img src="assets/img/inner/logo/7.jpg" alt="" />
-                    <img src="assets/img/inner/logo/8.jpg" alt="" />
-                    <img src="assets/img/inner/logo/9.jpg" alt="" />
-                    <img src="assets/img/inner/logo/10.jpg" alt="" />
-                    <img src="assets/img/inner/logo/11.jpg" alt="" />
+                    <img
+                      src="assets/img/inner/logo/1.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/2.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/3.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/4.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/5.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/6.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/7.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/8.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/9.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/10.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/11.jpg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="images-slider-imgs">
-                    <img src="assets/img/inner/logo/1.jpg" alt="" />
-                    <img src="assets/img/inner/logo/2.jpg" alt="" />
-                    <img src="assets/img/inner/logo/3.jpg" alt="" />
-                    <img src="assets/img/inner/logo/4.jpg" alt="" />
-                    <img src="assets/img/inner/logo/5.jpg" alt="" />
-                    <img src="assets/img/inner/logo/6.jpg" alt="" />
-                    <img src="assets/img/inner/logo/7.jpg" alt="" />
-                    <img src="assets/img/inner/logo/8.jpg" alt="" />
-                    <img src="assets/img/inner/logo/9.jpg" alt="" />
-                    <img src="assets/img/inner/logo/10.jpg" alt="" />
-                    <img src="assets/img/inner/logo/11.jpg" alt="" />
+                    <img
+                      src="assets/img/inner/logo/1.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/2.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/3.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/4.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/5.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/6.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/7.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/8.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/9.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/10.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/11.jpg"
+                      alt="nft constructer"
+                    />
                   </div>
                   <div className="images-slider-imgs">
-                    <img src="assets/img/inner/logo/1.jpg" alt="" />
-                    <img src="assets/img/inner/logo/2.jpg" alt="" />
-                    <img src="assets/img/inner/logo/3.jpg" alt="" />
-                    <img src="assets/img/inner/logo/4.jpg" alt="" />
-                    <img src="assets/img/inner/logo/5.jpg" alt="" />
-                    <img src="assets/img/inner/logo/6.jpg" alt="" />
-                    <img src="assets/img/inner/logo/7.jpg" alt="" />
-                    <img src="assets/img/inner/logo/8.jpg" alt="" />
-                    <img src="assets/img/inner/logo/9.jpg" alt="" />
-                    <img src="assets/img/inner/logo/10.jpg" alt="" />
-                    <img src="assets/img/inner/logo/11.jpg" alt="" />
+                    <img
+                      src="assets/img/inner/logo/1.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/2.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/3.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/4.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/5.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/6.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/7.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/8.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/9.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/10.jpg"
+                      alt="nft constructer"
+                    />
+                    <img
+                      src="assets/img/inner/logo/11.jpg"
+                      alt="nft constructer"
+                    />
                   </div>
                 </div>
               </div>
@@ -281,7 +416,10 @@ function SmartContract() {
                   data-aos="fade-up"
                   data-aos-duration="1000"
                 >
-                  <img src="assets/img/inner/chainup.png" alt="" />
+                  <img
+                    src="assets/img/inner/chainup.png"
+                    alt="nft constructer"
+                  />
                 </div>
                 <div
                   className="chainup-content"
@@ -295,7 +433,10 @@ function SmartContract() {
                   <div className="chainup-inner-grid">
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/client.svg" alt="" />
+                        <img
+                          src="assets/img/icon/client.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -307,7 +448,10 @@ function SmartContract() {
 
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/financial.svg" alt="" />
+                        <img
+                          src="assets/img/icon/financial.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -318,7 +462,10 @@ function SmartContract() {
                     </div>
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/crypto.svg" alt="" />
+                        <img
+                          src="assets/img/icon/crypto.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -329,7 +476,10 @@ function SmartContract() {
                     </div>
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/nft.svg" alt="" />
+                        <img
+                          src="assets/img/icon/nft.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -340,7 +490,10 @@ function SmartContract() {
                     </div>
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/region.svg" alt="" />
+                        <img
+                          src="assets/img/icon/region.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -351,7 +504,10 @@ function SmartContract() {
                     </div>
                     <div className="chainup-inner-grid-item">
                       <div className="chainup-inner-grid-item-icon">
-                        <img src="assets/img/icon/wallet.svg" alt="" />
+                        <img
+                          src="assets/img/icon/wallet.svg"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="chainup-inner-grid-item-content">
                         <h3>
@@ -397,7 +553,7 @@ function SmartContract() {
                   <p>BlockChain Platform</p>
                   <img
                     src="assets/imgs/triangle.png"
-                    alt=""
+                    alt="nft constructer"
                     className="arrow-down"
                   />
                 </div>
@@ -410,7 +566,7 @@ function SmartContract() {
                   <p>Storage Platform</p>
                   <img
                     src="assets/imgs/triangle.png"
-                    alt=""
+                    alt="nft constructer"
                     className="arrow-down"
                   />
                 </div>
@@ -423,7 +579,7 @@ function SmartContract() {
                   <p>NFT Standards</p>
                   <img
                     src="assets/imgs/triangle.png"
-                    alt=""
+                    alt="nft constructer"
                     className="arrow-down"
                   />
                 </div>
@@ -436,7 +592,7 @@ function SmartContract() {
                   <p>Front End Frameworks</p>
                   <img
                     src="assets/imgs/triangle.png"
-                    alt=""
+                    alt="nft constructer"
                     className="arrow-down"
                   />
                 </div>
@@ -449,7 +605,7 @@ function SmartContract() {
                   <p>Programming Languages</p>
                   <img
                     src="assets/imgs/triangle.png"
-                    alt=""
+                    alt="nft constructer"
                     className="arrow-down"
                   />
                 </div>
@@ -462,7 +618,7 @@ function SmartContract() {
                   <p>Cloud Platforms</p>
                   <img
                     src="assets/imgs/triangle.png"
-                    alt=""
+                    alt="nft constructer"
                     className="arrow-down"
                   />
                 </div>
@@ -645,7 +801,10 @@ function SmartContract() {
                 >
                   <div className="card-main-content">
                     <div className="market-card-img">
-                      <img src="assets/img/icon/card.png" alt="" />
+                      <img
+                        src="assets/img/icon/card.png"
+                        alt="nft constructer"
+                      />
                     </div>
                     <div className="market-card-content">
                       <h3>
@@ -664,7 +823,10 @@ function SmartContract() {
                 >
                   <div className="card-main-content">
                     <div className="market-card-img">
-                      <img src="assets/img/icon/card.png" alt="" />
+                      <img
+                        src="assets/img/icon/card.png"
+                        alt="nft constructer"
+                      />
                     </div>
                     <div className="market-card-content">
                       <h3>
@@ -678,11 +840,31 @@ function SmartContract() {
                 </div>
               </div>
             </div>
-            <img src="assets/img/inner/market-1.png" alt="" className="bbl1" />
-            <img src="assets/img/inner/market-2.png" alt="" className="bbl2" />
-            <img src="assets/img/inner/market-3.png" alt="" className="bbl3" />
-            <img src="assets/img/inner/market-4.png" alt="" className="bbl4" />
-            <img src="assets/img/inner/market-5.png" alt="" className="bbl5" />
+            <img
+              src="assets/img/inner/market-1.png"
+              alt="nft constructer"
+              className="bbl1"
+            />
+            <img
+              src="assets/img/inner/market-2.png"
+              alt="nft constructer"
+              className="bbl2"
+            />
+            <img
+              src="assets/img/inner/market-3.png"
+              alt="nft constructer"
+              className="bbl3"
+            />
+            <img
+              src="assets/img/inner/market-4.png"
+              alt="nft constructer"
+              className="bbl4"
+            />
+            <img
+              src="assets/img/inner/market-5.png"
+              alt="nft constructer"
+              className="bbl5"
+            />
           </div>
         </section>
         {/* ===================MARKET REPORT section end  ================== */}
@@ -691,10 +873,10 @@ function SmartContract() {
           <div id="inner-area" data-aos="fade-up" data-aos-duration="1000">
             <div className="features cpy-6">
               <div className="services-decor">
-                <img src="assets/imgs/decor-ball-1.png" alt="" />
-                <img src="assets/imgs/decor-ball-2.png" alt="" />
-                <img src="assets/imgs/decor-ball-3.png" alt="" />
-                <img src="assets/imgs/decor-ball-4.png" alt="" />
+                <img src="assets/imgs/decor-ball-1.png" alt="nft constructer" />
+                <img src="assets/imgs/decor-ball-2.png" alt="nft constructer" />
+                <img src="assets/imgs/decor-ball-3.png" alt="nft constructer" />
+                <img src="assets/imgs/decor-ball-4.png" alt="nft constructer" />
               </div>
               <div className="container">
                 <div className="section-title">
@@ -708,8 +890,14 @@ function SmartContract() {
                   <div className="services-container">
                     <div className="service">
                       <div className="services-icon">
-                        <img src="assets/img/icon/1.png" alt="" />
-                        <img src="assets/img/icon/1-a.png" alt="" />
+                        <img
+                          src="assets/img/icon/1.png"
+                          alt="nft constructer"
+                        />
+                        <img
+                          src="assets/img/icon/1-a.png"
+                          alt="nft constructer"
+                        />
                       </div>
 
                       <p>Smart Contract Development</p>
@@ -722,8 +910,14 @@ function SmartContract() {
 
                     <div className="service">
                       <div className="services-icon">
-                        <img src="assets/img/icon/2.png" alt="" />
-                        <img src="assets/img/icon/2-a.png" alt="" />
+                        <img
+                          src="assets/img/icon/2.png"
+                          alt="nft constructer"
+                        />
+                        <img
+                          src="assets/img/icon/2-a.png"
+                          alt="nft constructer"
+                        />
                       </div>
 
                       <p>Smart Contract Audit</p>
@@ -736,8 +930,14 @@ function SmartContract() {
                     </div>
                     <div className="service">
                       <div className="services-icon">
-                        <img src="assets/img/icon/3.png" alt="" />
-                        <img src="assets/img/icon/3-a.png" alt="" />
+                        <img
+                          src="assets/img/icon/3.png"
+                          alt="nft constructer"
+                        />
+                        <img
+                          src="assets/img/icon/3-a.png"
+                          alt="nft constructer"
+                        />
                       </div>
 
                       <p>NFT(ERC721 & ERC1155) Development</p>
@@ -762,9 +962,9 @@ function SmartContract() {
           <div id="inner-area" data-aos="fade-up" data-aos-duration="1000">
             <div className="benefits-area">
               <div className="benefits-decor">
-                <img src="assets/imgs/decor-ball-5.png" alt="" />
-                <img src="assets/imgs/decor-ball-6.png" alt="" />
-                <img src="assets/imgs/decor-ball-7.png" alt="" />
+                <img src="assets/imgs/decor-ball-5.png" alt="nft constructer" />
+                <img src="assets/imgs/decor-ball-6.png" alt="nft constructer" />
+                <img src="assets/imgs/decor-ball-7.png" alt="nft constructer" />
               </div>
               <div className="container benefit-section">
                 <div className="title">
@@ -776,28 +976,37 @@ function SmartContract() {
                 <div className="spider">
                   <img
                     src="assets/imgs/center-nft.png"
-                    alt=""
+                    alt="nft constructer"
                     className="spider-center"
                   />
 
                   <div className="benefits">
                     <div className="benefits-container">
                       <div className="benefit-box">
-                        <img src="assets/imgs/liquidity.png" alt="" />
+                        <img
+                          src="assets/imgs/liquidity.png"
+                          alt="nft constructer"
+                        />
                         <p>NFT Liquidity</p>
                       </div>
                       <div className="benefit-box">
-                        <img src="assets/imgs/gas.png" alt="" />
+                        <img src="assets/imgs/gas.png" alt="nft constructer" />
                         <p>Lowest Gas Price</p>
                       </div>
                     </div>
                     <div className="benefits-container">
                       <div className="benefit-box">
-                        <img src="assets/imgs/marketplace.png" alt="" />
+                        <img
+                          src="assets/imgs/marketplace.png"
+                          alt="nft constructer"
+                        />
                         <p>Multi-Chain NFT Marketplace</p>
                       </div>
                       <div className="benefit-box">
-                        <img src="assets/imgs/smart-contract.png" alt="" />
+                        <img
+                          src="assets/imgs/smart-contract.png"
+                          alt="nft constructer"
+                        />
                         <p>
                           Smart contract <br /> Audited NFT
                         </p>
@@ -806,32 +1015,50 @@ function SmartContract() {
 
                     <div className="benefits-container">
                       <div className="benefit-box">
-                        <img src="assets/imgs/stakling.png" alt="" />
+                        <img
+                          src="assets/imgs/stakling.png"
+                          alt="nft constructer"
+                        />
                         <p>NFT Staking</p>
                       </div>
                       <div className="benefit-box">
-                        <img src="assets/imgs/lending.png" alt="" />
+                        <img
+                          src="assets/imgs/lending.png"
+                          alt="nft constructer"
+                        />
                         <p>NFT Lending</p>
                       </div>
                     </div>
 
                     <div className="benefits-container">
                       <div className="benefit-box">
-                        <img src="assets/imgs/launchpad.png" alt="" />
+                        <img
+                          src="assets/imgs/launchpad.png"
+                          alt="nft constructer"
+                        />
                         <p>NFT Launch Pad</p>
                       </div>
                       <div className="benefit-box">
-                        <img src="assets/imgs/auction.png" alt="" />
+                        <img
+                          src="assets/imgs/auction.png"
+                          alt="nft constructer"
+                        />
                         <p>Bidding & Auction</p>
                       </div>
                     </div>
                     <div className="benefits-container">
                       <div className="benefit-box">
-                        <img src="assets/imgs/ownership.png" alt="" />
+                        <img
+                          src="assets/imgs/ownership.png"
+                          alt="nft constructer"
+                        />
                         <p>Fractional Ownership</p>
                       </div>
                       <div className="benefit-box">
-                        <img src="assets/imgs/minting.png" alt="" />
+                        <img
+                          src="assets/imgs/minting.png"
+                          alt="nft constructer"
+                        />
                         <p>Lazy Minting</p>
                       </div>
                     </div>
@@ -870,7 +1097,7 @@ function SmartContract() {
                     data-aos-duration="1000"
                   >
                     <div className="benefit-img">
-                      <img src="assets/img/icon/4.png" alt="" />
+                      <img src="assets/img/icon/4.png" alt="nft constructer" />
                     </div>
                     <div className="benefit-de">
                       <h2>Secure & Safe</h2>
@@ -894,7 +1121,7 @@ function SmartContract() {
                       </p>
                     </div>
                     <div className="benefit-img">
-                      <img src="assets/img/icon/5.png" alt="" />
+                      <img src="assets/img/icon/5.png" alt="nft constructer" />
                     </div>
                   </div>
                   <div
@@ -903,7 +1130,7 @@ function SmartContract() {
                     data-aos-duration="2000"
                   >
                     <div className="benefit-img">
-                      <img src="assets/img/icon/6.png" alt="" />
+                      <img src="assets/img/icon/6.png" alt="nft constructer" />
                     </div>
                     <div className="benefit-de">
                       <h2>Highly Scalable</h2>
@@ -926,7 +1153,7 @@ function SmartContract() {
                       </p>
                     </div>
                     <div className="benefit-img">
-                      <img src="assets/img/icon/7.png" alt="" />
+                      <img src="assets/img/icon/7.png" alt="nft constructer" />
                     </div>
                   </div>
                 </div>

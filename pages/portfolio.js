@@ -60,7 +60,10 @@ function Portfolio() {
                 >
                   <div className="hero-content">
                     <div className="title-top-img">
-                      <img src="assets/img/inner/cr-1.png" alt="" />
+                      <img
+                        src="assets/img/inner/cr-1.png"
+                        alt="nft constructer"
+                      />
                     </div>
                     <div className="widht-60">
                       <h1 className="title hero-title">
@@ -96,7 +99,10 @@ function Portfolio() {
                   data-aos="fade-up"
                   data-aos-duration="2000"
                 >
-                  <img src="assets/img/hero/portfolio.png" alt="" />
+                  <img
+                    src="assets/img/hero/portfolio.png"
+                    alt="nft constructer"
+                  />
                 </div>
               </div>
             </div>
@@ -108,16 +114,19 @@ function Portfolio() {
             <div className="hero-bottom">
               <div className="row-4">
                 <div className="logo-item">
-                  <img src="assets/img/logo/google.png" alt="" />
+                  <img src="assets/img/logo/google.png" alt="nft constructer" />
                 </div>
                 <div className="logo-item">
-                  <img src="assets/img/logo/slack.png" alt="" />
+                  <img src="assets/img/logo/slack.png" alt="nft constructer" />
                 </div>
                 <div className="logo-item">
-                  <img src="assets/img/logo/monday.png" alt="" />
+                  <img src="assets/img/logo/monday.png" alt="nft constructer" />
                 </div>
                 <div className="logo-item">
-                  <img src="assets/img/logo/microsoft.png" alt="" />
+                  <img
+                    src="assets/img/logo/microsoft.png"
+                    alt="nft constructer"
+                  />
                 </div>
               </div>
             </div>
@@ -156,7 +165,10 @@ function Portfolio() {
                       <p className="prof-text">{portfolio.description}</p>
                       <a href={portfolio.link} className="view-shot">
                         Visit Live Site
-                        <img src="assets/img/long-arrow-right.svg" alt="" />
+                        <img
+                          src="assets/img/long-arrow-right.svg"
+                          alt="nft constructer"
+                        />
                       </a>
                     </div>
                     <div
@@ -216,7 +228,10 @@ function Portfolio() {
                   <SwiperSlide>
                     <div className="client-review-slider">
                       <div className="review-img">
-                        <img src="assets/img/inner/review.png" alt="" />
+                        <img
+                          src="assets/img/inner/review.png"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="review-content">
                         <h2 className="content-title">
@@ -249,7 +264,10 @@ function Portfolio() {
 
                         <div className="client-info">
                           <div className="client-img">
-                            <img src="assets/img/inner/client.png" alt="" />
+                            <img
+                              src="assets/img/inner/client.png"
+                              alt="nft constructer"
+                            />
                           </div>
                           <div className="client-name">
                             <h3>Branun Yes </h3>
@@ -262,7 +280,10 @@ function Portfolio() {
                   <SwiperSlide>
                     <div className="client-review-slider">
                       <div className="review-img">
-                        <img src="assets/img/inner/review.png" alt="" />
+                        <img
+                          src="assets/img/inner/review.png"
+                          alt="nft constructer"
+                        />
                       </div>
                       <div className="review-content">
                         <h2 className="content-title">
@@ -295,7 +316,10 @@ function Portfolio() {
 
                         <div className="client-info">
                           <div className="client-img">
-                            <img src="assets/img/inner/client.png" alt="" />
+                            <img
+                              src="assets/img/inner/client.png"
+                              alt="nft constructer"
+                            />
                           </div>
                           <div className="client-name">
                             <h3>Branun Yes </h3>
