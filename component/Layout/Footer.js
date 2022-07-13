@@ -22,8 +22,8 @@ function Footer() {
                   <img src="assets/img/footer-logo.png" alt="nft constructer" />
                 </div>
                 <p className="urbanist-white-14">
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptate
-                  accusantium
+                  When it comes to the digital assets or blockchain industry,
+                  Nftconstructer always stands out from the crowd.
                 </p>
                 <div className="footer-links">
                   <a href="https://facebook.com/nftconstructer?_rdc=1&_rdr">

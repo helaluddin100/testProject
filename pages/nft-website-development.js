@@ -59,7 +59,9 @@ function HiCoin() {
 
               <div className="hero-btns">
                 <button className="btn-hero-1">Get Started</button>
-                <button className="btn-hero-2">Watch Demo</button>
+                <a href="#demo-request" className="btn-hero-2">
+                  Watch Demo
+                </a>
               </div>
 
               <div className="hero-checks">

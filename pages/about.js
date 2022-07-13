@@ -28,11 +28,12 @@ function About() {
       <div className="about cpy-6">
         <div className="container">
           <div className="section-title cpb-7">
-            <p className="sm-title">About me</p>
-            <h2 className="sec-title">About my services</h2>
+            <h2 className="sec-title">About Our Services</h2>
             <p className="sec-des">
-              Get more software development information about exchange software
-              wallet software derivate products and ETC.
+              Our highly specialized development team is dedicated to develop
+              any kind non-fungible token block chain-related solutions that
+              make it easier and more productive to complete tasks by utilizing
+              the most recent technological advances..
             </p>
           </div>
 
@@ -90,12 +91,11 @@ function About() {
           <div className="section-title cpb-7">
             <p className="sm-title">Industry</p>
             <h2 className="sec-title">
-              Industries we serve through our Impeccable Solutions
+              Industries we have served through our Impeccable Solutions
             </h2>
             <p className="sec-des">
-              Maticz serves the Cryptosphere through its highly endurant
-              products offering endless quality of service finding use in a
-              variety of domains.
+              Nftconstructer serves all the Cryptosphere through its highly
+              persistence products offering endless quality of service.
             </p>
           </div>
 
@@ -293,19 +293,22 @@ function About() {
                 </div>
                 <div className="talk-4-text">
                   <h3>WHATAPP US</h3>
-                  <a href="" className="talk-link">
-                    +8801792892198
+                  <a href="https://wa.me/13025977087" className="talk-link">
+                    +13025977087
                   </a>
                 </div>
               </div>
               <div className="talk-4-inner">
                 <div className="talk-4-icon">
-                  <img src="assets/img/icon/skype.svg" alt="nft constructer" />
+                  <img
+                    src="assets/img/icon/discord.png"
+                    alt="nft constructer"
+                  />
                 </div>
                 <div className="talk-4-text">
-                  <h3>Skype</h3>
-                  <a href="" className="talk-link">
-                    live:d565b8b2fd5d28f7
+                  <h3>Discord</h3>
+                  <a href="https://cutt.ly/PLWYQv9" className="talk-link">
+                    https://cutt.ly/PLWYQv9
                   </a>
                 </div>
               </div>
@@ -316,7 +319,7 @@ function About() {
                 <div className="talk-4-text">
                   <h3>Email</h3>
                   <a href="" className="talk-link">
-                    info@nftconstructer.com
+                    support@nftconstructer.com
                   </a>
                 </div>
               </div>

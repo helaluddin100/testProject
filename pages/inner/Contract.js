@@ -43,10 +43,11 @@ export default class Contract extends Component {
             <div className="section-title cpb-7">
               <h2 className="sec-title">CONNECT WITH US</h2>
               <p className="sec-des">
-                We&amp; re excited to hear about your project. Schedule a call
-                today and Connect with our experts. At Maticz, We respect your
-                privacy and Never share your details with anyone. Let&amp; s
-                build together.
+                We are really excited to hear about your project. Schedule a
+                call today and Connect with our experts. At Nftconstructer, We
+                always respect your privacy and Never share your details & also
+                project information&apos;s with any other third party or
+                person.Your security is our top most priority.
               </p>
             </div>
 

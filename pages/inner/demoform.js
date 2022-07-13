@@ -39,7 +39,7 @@ class DemoForm extends Component {
     return (
       <div>
         {/* ===================demo request section ================== */}
-        <section className="demo-request cpt-6">
+        <section className="demo-request cpt-6" id="demo-request">
           <div className="container">
             <div className="section-title">
               <p className="sm-title">Interested</p>

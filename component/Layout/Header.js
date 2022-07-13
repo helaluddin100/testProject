@@ -18,7 +18,7 @@ function Header() {
 
   // Timer
   const countDown = () => {
-    const dueDate = new Date("July 5, 2022 00:00").getTime();
+    const dueDate = new Date("July 25, 2022 00:00").getTime();
     const currentDate = new Date().getTime();
 
     const remainings = dueDate - currentDate;
@@ -282,6 +282,11 @@ function Header() {
                     <li className="nav-list">
                       <Link href={"/blog"}>
                         <a className="nav-link">Blog</a>
+                      </Link>
+                    </li>
+                    <li className="nav-list">
+                      <Link href={"/portfolio"}>
+                        <a className="nav-link">Portfolio</a>
                       </Link>
                     </li>
                     <li className="nav-list">
