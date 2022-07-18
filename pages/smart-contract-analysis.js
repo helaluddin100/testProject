@@ -15,25 +15,25 @@ function Business() {
   return (
     <>
       <Head>
-        <title>Full Stack Web Development Services</title>
+        <title>smart contract-analysis |Full Stack Web Tech Services</title>
         <meta
           name="description"
-          content="We provide Non-Fungible Development Services that can help you create NFTs for artworks, digital collectibles, gaming, sports, music, video, content Subscription, etc"
+          content="Do you want a professional smart contract analysis service? We use cutting-edge technology and a community of skilled professionals to help you."
         ></meta>
         <meta
           name="og:description"
-          content="We provide Non-Fungible Development Services that can help you create NFTs for artworks, digital collectibles, gaming, sports, music, video, content Subscription, etc"
+          content="Do you want a professional smart contract analysis service? We use cutting-edge technology and a community of skilled professionals to help you."
         ></meta>
         <meta property="og:type" content="article" />
         <meta
           property="og:title"
-          content="Full Stack Web Development Services"
+          content="smart contract-analysis |Full Stack Web Tech Services"
         />
-        <meta property="og:image" content="assets/img/inner/cr-1.png" />
-        <meta property="image" content="assets/img/inner/cr-1.png" />
+        <meta property="og:image" content="assets/img/meta/5.jpg" />
+        <meta property="image" content="assets/img/meta/5.jpg" />
         <meta
           name="keywords"
-          content="nft, full stack, web development, website, website design , website development,development, nft constracter, minting website"
+          content="smart contract-analysis, smart-contract analysis tool, smart-contract analysis service"
         ></meta>
         <link rel="icon" type="image" href="/favicon.png"></link>
       </Head>

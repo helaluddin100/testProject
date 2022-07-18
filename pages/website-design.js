@@ -13,28 +13,29 @@ function Coin() {
   return (
     <>
       <Head>
-        <title>Full Stack Web Development Services</title>
+        <title>Top Notch NFT Website Design Service</title>
         <meta
           name="description"
-          content="We provide Non-Fungible Development Services that can help you create NFTs for artworks, digital collectibles, gaming, sports, music, video, content Subscription, etc"
+          content="Invest in responsive nft website design to increase consumer confidence in your fintech company's digital products."
         ></meta>
         <meta
           name="og:description"
-          content="We provide Non-Fungible Development Services that can help you create NFTs for artworks, digital collectibles, gaming, sports, music, video, content Subscription, etc"
+          content="Invest in responsive nft website design to increase consumer confidence in your fintech company's digital products."
         ></meta>
         <meta property="og:type" content="article" />
         <meta
           property="og:title"
-          content="Full Stack Web Development Services"
+          content="Top Notch NFT Website Design Service"
         />
-        <meta property="og:image" content="assets/img/inner/cr-1.png" />
-        <meta property="image" content="assets/img/inner/cr-1.png" />
+        <meta property="og:image" content="assets/img/meta/3.jpg" />
+        <meta property="image" content="assets/img/meta/3.jpg" />
         <meta
           name="keywords"
-          content="nft, full stack, web development, website, website design , website development,development, nft constracter, minting website"
+          content="Best nft website design, Nft website ui ux design, nft website design company"
         ></meta>
         <link rel="icon" type="image" href="/favicon.png"></link>
       </Head>
+
       <div id="Coin" className="cpy-5">
         <div className="container">
           <section className="hero">

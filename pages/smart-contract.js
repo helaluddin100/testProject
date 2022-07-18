@@ -15,25 +15,25 @@ function SmartContract() {
   return (
     <>
       <Head>
-        <title>Full Stack Web Development Services</title>
+        <title>Decentralized Smart Contract Development Services</title>
         <meta
           name="description"
-          content="We provide Non-Fungible Development Services that can help you create NFTs for artworks, digital collectibles, gaming, sports, music, video, content Subscription, etc"
+          content="Our unique approach to developing smart contracts gives businesses the confidence of bigger investment in blockchain technology."
         ></meta>
         <meta
           name="og:description"
-          content="We provide Non-Fungible Development Services that can help you create NFTs for artworks, digital collectibles, gaming, sports, music, video, content Subscription, etc"
+          content="Our unique approach to developing smart contracts gives businesses the confidence of bigger investment in blockchain technology."
         ></meta>
         <meta property="og:type" content="article" />
         <meta
           property="og:title"
-          content="Full Stack Web Development Services"
+          content="Decentralized Smart Contract Development Services"
         />
-        <meta property="og:image" content="assets/img/inner/cr-1.png" />
-        <meta property="image" content="assets/img/inner/cr-1.png" />
+        <meta property="og:image" content="assets/img/meta/4.jpg" />
+        <meta property="image" content="assets/img/meta/4.jpg" />
         <meta
           name="keywords"
-          content="nft, full stack, web development, website, website design , website development,development, nft constracter, minting website"
+          content="NFT Smart Contract Development, NFT smart contract, Best Smart Contract Developer"
         ></meta>
         <link rel="icon" type="image" href="/favicon.png"></link>
       </Head>

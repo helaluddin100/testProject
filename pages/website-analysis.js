@@ -15,25 +15,29 @@ function Analysis() {
   return (
     <>
       <Head>
-        <title>Full Stack Web Development Services</title>
+        <title>Nft Website Analysis |Full Stack Web Tech Service</title>
         <meta
           name="description"
-          content="We provide Non-Fungible Development Services that can help you create NFTs for artworks, digital collectibles, gaming, sports, music, video, content Subscription, etc"
+          content="WUncover Vulnerabilities On Your Non-Fungible Token Platform
+
+Protecting your systems is a far less daunting task when you have a team of cyber experts for your nft minting website or marketplace."
         ></meta>
         <meta
           name="og:description"
-          content="We provide Non-Fungible Development Services that can help you create NFTs for artworks, digital collectibles, gaming, sports, music, video, content Subscription, etc"
+          content="WUncover Vulnerabilities On Your Non-Fungible Token Platform
+
+Protecting your systems is a far less daunting task when you have a team of cyber experts for your nft minting website or marketplace."
         ></meta>
         <meta property="og:type" content="article" />
         <meta
           property="og:title"
-          content="Full Stack Web Development Services"
+          content="Nft Website Analysis |Full Stack Web Tech Service"
         />
-        <meta property="og:image" content="assets/img/inner/cr-1.png" />
-        <meta property="image" content="assets/img/inner/cr-1.png" />
+        <meta property="og:image" content="assets/img/meta/6.jpg" />
+        <meta property="image" content="assets/img/meta/6.jpg" />
         <meta
           name="keywords"
-          content="nft, full stack, web development, website, website design , website development,development, nft constracter, minting website"
+          content="Nft website analysis, Audit NFT Website, NFT Website Auditing"
         ></meta>
         <link rel="icon" type="image" href="/favicon.png"></link>
       </Head>
@@ -42,7 +46,7 @@ function Analysis() {
           <img src="assets/imgs/boll-1.png" alt="Ball" />
           <img src="assets/imgs/ball-2.png" alt="Ball" />
           <img src="assets/imgs/ball-3.png" alt="Ball" />
-          <img src="assets/imgs/ball-4.png" alt="Ball" />
+          {/* <img src="assets/imgs/ball-4.png" alt="Ball" /> */}
         </div>
         <div className="container">
           <section className="hero">

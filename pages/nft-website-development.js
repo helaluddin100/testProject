@@ -15,25 +15,27 @@ function HiCoin() {
   return (
     <>
       <Head>
-        <title>Full Stack Web Development Services</title>
+        <title>
+          NFT Website Development Services |Full Stack Web Tech Services
+        </title>
         <meta
           name="description"
-          content="We provide Non-Fungible Development Services that can help you create NFTs for artworks, digital collectibles, gaming, sports, music, video, content Subscription, etc"
+          content="We provide NFT website development services for digital content such as art, music, and videos, domain names, gaming items, investments, and other physical items that are unique Contact us!"
         ></meta>
         <meta
           name="og:description"
-          content="We provide Non-Fungible Development Services that can help you create NFTs for artworks, digital collectibles, gaming, sports, music, video, content Subscription, etc"
+          content="We provide NFT website development services for digital content such as art, music, and videos, domain names, gaming items, investments, and other physical items that are unique Contact us!"
         ></meta>
         <meta property="og:type" content="article" />
         <meta
           property="og:title"
-          content="Full Stack Web Development Services"
+          content="NFT Website Development Services |Full Stack Web Tech Services"
         />
-        <meta property="og:image" content="assets/img/inner/cr-1.png" />
-        <meta property="image" content="assets/img/inner/cr-1.png" />
+        <meta property="og:image" content="assets/img/meta/2.jpg" />
+        <meta property="image" content="assets/img/meta/2.jpg" />
         <meta
           name="keywords"
-          content="nft, full stack, web development, website, website design , website development,development, nft constracter, minting website"
+          content="Nft minting website development, NFT marketplace development, NFT Website Design"
         ></meta>
         <link rel="icon" type="image" href="/favicon.png"></link>
       </Head>
