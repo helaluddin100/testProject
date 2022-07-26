@@ -2,6 +2,8 @@ import "../styles/globals.css";
 import "../styles/Layout.css";
 import "../styles/font/icofont.min.css";
 import "../styles/section/_global-style.scss";
+import "../styles/App.css";
+
 import Aos from "aos";
 import "aos/dist/aos.css";
 // Import Swiper styles

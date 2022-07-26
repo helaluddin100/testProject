@@ -8,6 +8,7 @@ import DemoForm from "./inner/demoform";
 import Newsletter from "./inner/Newsletter";
 import Head from "next/head";
 import Review from "./inner/Review";
+import Link from "next/link";
 
 function HiCoin() {
   const [service, setService] = useState(1);
@@ -60,7 +61,9 @@ function HiCoin() {
               </p>
 
               <div className="hero-btns">
-                <button className="btn-hero-1">Get Started</button>
+                <Link href={"/projectrequirements"}>
+                  <a className="btn-hero-1">Get Started</a>
+                </Link>
                 <a href="#demo-request" className="btn-hero-2">
                   Watch Demo
                 </a>
